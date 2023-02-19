@@ -2,17 +2,32 @@
 
 Semua Perubahan Dan Penambahan Feature Ada Di Sini.
 
+## 3.2.2 - 19/02/2023
+
+Menambahkan fitur yang lupa di masukkan pada versi sebelumnya.
+
+### Add Features
+- Menambahkan tombol credits
+
+### Change Features
+- Sekarang kamu bisa melihat versi pada tombol credits
+
+### Fix Bugs
+- Memperbaiki bug dimana ada cmd yang terbuka pada saat program dijalankan.
+- Memperbaiki error yang muncul saat scan folder tapi folder yang mau di scan kosong lalu kita keluar dari program
+
+---------------------------------------------------------------------------
 ## 3.0.0 - 19/02/2023
 
 ### New UI
 
 - Sekarang program ini memiliki ui sendiri.
-![](images\gui1.PNG)
+![](https://raw.githubusercontent.com/AerellDev/Excel-Project/master/images/gui1.PNG)
 
 
 ### Add Features
 - Sekarang kita bisa mengatur cara kerja program ini untuk mengscan suatu folder, dengan mengubah beberapa peraturan ini.
-![](images\gui2.PNG)
+![](https://raw.githubusercontent.com/AerellDev/Excel-Project/master/images/gui2.PNG)
 
 - Sekarang kita bisa membuka folder hasil hanya dengan menekan tombol tertentu.
 
