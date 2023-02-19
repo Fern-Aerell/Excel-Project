@@ -22,6 +22,7 @@ Menambahkan fitur yang lupa di masukkan pada versi sebelumnya.
 ### New UI
 
 - Sekarang program ini memiliki ui sendiri.
+
 ![](https://raw.githubusercontent.com/AerellDev/Excel-Project/master/images/gui1.PNG)
 
 
