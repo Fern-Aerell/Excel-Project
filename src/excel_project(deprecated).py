@@ -2,6 +2,9 @@ import os
 import shutil
 
 def read_folder(folder, depth, folder_nama):
+    """
+    @deprecated: Function telah usang.
+    """
     list_of_files = os.listdir(folder)
     print(list_of_files)
     for file in list_of_files:
@@ -15,11 +18,17 @@ def read_folder(folder, depth, folder_nama):
             read_folder(file_path, depth + 1, folder_nama + ", " + file)
 
 def write_file(file_name):
+    """
+    @deprecated: Function telah usang.
+    """
     with open(file_name, 'w') as f:
         f.write("".join(content))
         print("File written: " + file_name)
 
 def main_menu():
+    """
+    @deprecated: Function telah usang.
+    """
     os.system('cls' if os.name == 'nt' else 'clear')
     print("=======================================")
     print("= Excel Project : Create By AerellDev =")
@@ -49,6 +58,7 @@ def main_menu():
             if not os.path.exists(folder_nama):
                 os.makedirs(folder_nama)
                 print("Membuat folder Hasil...")
+
             #2. Membuat Folder Baru Sesuai Nama Folder Asli Pada Folder Hasil
             print("Membuat Folder " + folder_asal_split[-1])
             os.makedirs("Hasil\\" + folder_asal_split[-1])
@@ -130,6 +140,9 @@ def main_menu():
         main_menu()
 
 def scan_folder_and_file_tree(folder_asal):
+    """
+    @deprecated: Function telah usang.
+    """
     try:
         content.clear()
         read_folder(folder_asal, 0, folder_asal)

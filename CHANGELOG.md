@@ -2,6 +2,25 @@
 
 Semua Perubahan Dan Penambahan Feature Ada Di Sini.
 
+## 3.0.0 - 19/02/2023
+
+### New UI
+
+- Sekarang program ini memiliki ui sendiri.
+![](images\gui1.PNG)
+
+
+### Add Features
+- Sekarang kita bisa mengatur cara kerja program ini untuk mengscan suatu folder, dengan mengubah beberapa peraturan ini.
+![](images\gui2.PNG)
+
+- Sekarang kita bisa membuka folder hasil hanya dengan menekan tombol tertentu.
+
+
+### Remove Features
+- Menghapus fitur scan folder yang lama.
+
+---------------------------------------------------------------------------
 ## 2.0.0 - 15/02/2023
 
 ### Scan Folder (New)
