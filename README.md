@@ -1,6 +1,6 @@
 # EXCEL PROJECT
 
-Tool Untuk Membantu Menyelesaikan Project Excel.
+Ini adalah program yang dibuat membantu menyelesaikan project pustaka digital HEMATECH
 
 Untuk changelog bisa lihat disini : [CHANGELOG.md](https://github.com/AerellDev/Excel-Project/blob/master/CHANGELOG.md)
 
