@@ -1,11 +1,11 @@
 # EXCEL PROJECT
 
-Ini adalah program yang dibuat membantu menyelesaikan project pustaka digital HEMATECH
+This is a program created to help complete the HEMATECH digital library project.
 
-Untuk changelog bisa lihat disini : [CHANGELOG.md](https://github.com/AerellDev/Excel-Project/blob/master/CHANGELOG.md)
+For the changelog, you can check it here: [CHANGELOG.md](https://github.com/AerellDev/Excel-Project/blob/master/CHANGELOG.md)
 
 <br/>
 
 ----------------------------------------------------------------------
-## Tampilan UI - Versi 3.0.0+
+## UI Display - Version 3.0.0+
 ![](https://raw.githubusercontent.com/AerellDev/Excel-Project/master/images/gui1.PNG)
